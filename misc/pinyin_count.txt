@@ -8,22 +8,23 @@ cong 1
 d 13
 da 3
 deng 2
-dian 1 1
+dian 1 2
 dianli 1
 dingxi 3
-fa 1
+fa 2
 feidian 1
-fen 10
+fen 11
 gao 1
 gei 1
-geng 1
-gu 1
+geng 2
+gu 2
 gui 1
 he 2
 hou 3
+huifa 1
 huo 3 1
 huoxing 1
-ji 4
+ji 5
 jian 3 1
 jiang 2
 jiner 1
@@ -42,7 +43,7 @@ nan 1
 nanrong 1
 nei 1
 qiangji 2
-qie 2
+qie 3
 qingjian 2
 qingpu 1
 qiu 1
@@ -63,15 +64,15 @@ xia 1
 xian 1
 xiao 2
 xiaoqu 4
-xing 5
+xing 7
 yanseshiyan 1
 yao 1
 yi 2
-yichun 5
+yichun 6
 yisuan 1
 yixi 2
 yizhi 1
-you 1
+you 2
 youyu 1 1
 yu 1
 yuan 2
@@ -83,5 +84,5 @@ zhizi 2
 zhizihua 1
 zhong 3
 zhongchun 1
-zi 14
+zi 15
 zui 1
