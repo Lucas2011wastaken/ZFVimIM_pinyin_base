@@ -30,7 +30,7 @@ jiang 2
 jiner 1
 jituan 2
 jixingjixing 1
-ke 1
+ke 3
 lei 1
 leiji 1
 leng 1
@@ -44,15 +44,16 @@ nanrong 1
 nei 1
 qiangji 2
 qie 3
-qingjian 2
+qingjian 4
 qingpu 1
 qiu 1
 que 1
 se 1
 shiji 2
+shouti 1
 shuang 1
 shuchun 1
-shui 7
+shui 8
 tigong 1
 tong 1
 tongru 1
@@ -67,7 +68,7 @@ xiaoqu 4
 xing 7
 yanseshiyan 1
 yao 1
-yi 2
+yi 3
 yichun 7
 yimi 1
 yisuan 1
@@ -75,7 +76,7 @@ yixi 2
 yizhi 1
 you 2
 youyu 1 1
-yu 1
+yu 2
 yuan 2
 zai 2 1
 ze 1
