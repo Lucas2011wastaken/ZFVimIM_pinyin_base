@@ -59,6 +59,7 @@ wu 1
 xia 1
 xian 1
 xiao 2
+xiaoqu 2
 xing 5
 yanseshiyan 1
 yao 1
