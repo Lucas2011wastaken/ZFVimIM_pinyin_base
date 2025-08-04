@@ -49,6 +49,7 @@ qingpu 1
 qiu 1
 que 1
 se 1
+shi 1
 shiji 2
 shouti 1
 shuang 1
@@ -70,7 +71,7 @@ yanseshiyan 1
 yao 1
 yi 3
 yichun 7
-yimi 1
+yimi 2
 yisuan 1
 yixi 2
 yizhi 1
