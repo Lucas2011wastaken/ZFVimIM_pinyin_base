@@ -13,7 +13,7 @@ dianli 1
 dingxi 3
 fa 1
 feidian 1
-fen 9
+fen 10
 gao 1
 gei 1
 geng 1
@@ -24,7 +24,7 @@ hou 3
 huo 3 1
 huoxing 1
 ji 4
-jian 2 1
+jian 3 1
 jiang 2
 jiner 1
 jituan 2
@@ -81,5 +81,5 @@ zhizi 2
 zhizihua 1
 zhong 3
 zhongchun 1
-zi 13
+zi 14
 zui 1
