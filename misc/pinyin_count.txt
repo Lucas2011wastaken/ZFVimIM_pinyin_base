@@ -34,6 +34,7 @@ lei 1
 leiji 1
 leng 1
 li 2
+lue 1
 lusu 3
 ming 1
 mingming 1
@@ -52,6 +53,7 @@ shuang 1
 shuchun 1
 shui 7
 tigong 1
+tong 1
 tongru 1
 tuan 1
 tuoqu 2
