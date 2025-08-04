@@ -1,6 +1,7 @@
 baofei 1
 bei 1
 bing 1
+bingchun 2
 bu 1
 bujia 1
 chu 1
@@ -83,7 +84,7 @@ yu 3
 yuan 2
 zai 2 1
 ze 1
-zheng 1
+zheng 2
 zhengdian 1
 zhizi 2
 zhizihua 1
