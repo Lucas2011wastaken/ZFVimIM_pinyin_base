@@ -5,7 +5,7 @@ bu 1
 bujia 1
 chu 1
 cong 1
-d 11
+d 12
 da 3
 deng 2
 dian 1 1
@@ -63,9 +63,9 @@ xing 5
 yanseshiyan 1
 yao 1
 yi 2
-yichun 4
+yichun 5
 yisuan 1
-yixi 1
+yixi 2
 yizhi 1
 you 1
 youyu 1 1
