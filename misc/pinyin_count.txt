@@ -13,7 +13,7 @@ dianli 1
 dingxi 3
 fa 1
 feidian 1
-fen 8
+fen 9
 gao 1
 gei 1
 geng 1
@@ -48,6 +48,7 @@ qiu 1
 que 1
 se 1
 shiji 2
+shuang 1
 shuchun 1
 shui 7
 tigong 1
@@ -59,7 +60,7 @@ wu 1
 xia 1
 xian 1
 xiao 2
-xiaoqu 2
+xiaoqu 4
 xing 5
 yanseshiyan 1
 yao 1
@@ -80,5 +81,5 @@ zhizi 2
 zhizihua 1
 zhong 3
 zhongchun 1
-zi 12
+zi 13
 zui 1
