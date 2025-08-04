@@ -22,8 +22,9 @@ gui 1
 he 2
 hou 3
 huifa 1
-huo 3 1
+huo 3 1 1
 huoxing 1
+huoyuan 1
 ji 5
 jian 3 1
 jiang 2
@@ -49,7 +50,7 @@ qingpu 1
 qiu 1
 que 1
 se 1
-shi 1
+shi 2
 shiji 2
 shouti 1
 shuang 1
@@ -71,13 +72,14 @@ yanseshiyan 1
 yao 1
 yi 3
 yichun 7
-yimi 2
+yimi 3
+ying 2
 yisuan 1
 yixi 2
 yizhi 1
 you 2
 youyu 1 1
-yu 2
+yu 3
 yuan 2
 zai 2 1
 ze 1
