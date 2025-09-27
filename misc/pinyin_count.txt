@@ -4,6 +4,7 @@ bing 1
 bingchun 2
 bu 1
 bujia 1
+chong 1
 chu 1
 cong 1
 d 13
@@ -69,6 +70,7 @@ xia 1
 xian 1
 xiao 2
 xiaoqu 4
+xin 1
 xing 7
 yanseshiyan 1
 yao 1
@@ -83,7 +85,7 @@ you 2
 youyu 1 1
 yu 3
 yuan 2
-zai 2 1
+zai 3 1
 ze 1
 zheng 2
 zhengdian 1
